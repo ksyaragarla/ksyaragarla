@@ -1,4 +1,4 @@
-# ## Hi there 👋, I'm Kumar Sai Yaragarla
+# Hi there 👋, I'm Kumar Sai Yaragarla
 
 ### **Cloud Developer & Full-Scale AWS Ecosystem Specialist**
 > Transforming complex business requirements into highly scalable, secure, and resilient cloud architectures.
